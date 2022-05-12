@@ -1,0 +1,16 @@
+.fond{
+    background-color:cornflowerblue;
+    width: 1100px;
+    height: 500px;
+}
+.container{
+    width: 1100px;
+    height: 500px;
+    font-family: 'Tapestry', cursive;/*tipografia*/;
+}
+.letramargen{
+    margin-left: 850px;
+ }
+ .margen {
+     margin-left: 200px;
+ }
